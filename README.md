@@ -18,3 +18,8 @@ The same data is used by *time-series-analysis.ipynb*.
 *autoregression-with-conv-inputs.ipynb* <br> 
 This notebook contains implementation of autoregressive model with convolutional inputs. <br>
 It used generated toy data set.
+
+*mnist-gan.ipynb* <br>
+Contains generative adversarial model generating images from MNIST data set. <br>
+
+
